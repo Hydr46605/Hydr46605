@@ -2,14 +2,11 @@
   <img src="https://i.imgur.com/fnh7MQK.png" width="300" height="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-youtube-URL">
+  <a href="https://youtube.com/@hydr4187">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://discord.gg/Y42sPa26N3">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
