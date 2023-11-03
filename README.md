@@ -22,7 +22,8 @@
 
 ---
 
-<img src="https://media.tenor.com/GPgVu42C8gUAAAAC/trapezio.gif"/>
+
+![](https://media.tenor.com/GPgVu42C8gUAAAAC/trapezio.gif)
 
 
 
