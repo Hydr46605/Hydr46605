@@ -22,7 +22,7 @@
 
 ---
 
-<img src="https://media.tenor.com/GPgVu42C8gUAAAAC/trapezio.gif">
+<img src="https://media.tenor.com/GPgVu42C8gUAAAAC/trapezio.gif"/>
 
 
 
