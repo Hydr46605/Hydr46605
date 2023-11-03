@@ -13,7 +13,7 @@
   </a>
 </div>
 <div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=Hydr46605&style=flat-square&color=purple" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=Hydr46605&style=flat-square&color=green" alt=""/>
 </div>
 <!--
 **Hydr46605/Hydr46605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
