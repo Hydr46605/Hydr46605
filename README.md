@@ -20,8 +20,8 @@
 
 ### :woman_technologist: Projects :
 
-- [Reveal](https://reveal-app.vercel.app)
-- [JungleTeam](https://team.junglemc.it)
+- [Reveal](https://reveal-app.vercel.app) 🚀
+- [JungleTeam](https://team.junglemc.it) 🌴
 
 
 ---
