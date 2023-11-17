@@ -17,7 +17,7 @@
 ---
 
 
- <img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=300&size=14&pause=3000&color=F7E5DC&center=true&vCenter=true&lines=A+passionate+developer+from+Poland+%3C3" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=300&size=14&pause=3000&color=F7E5DC&center=true&vCenter=true&lines=Im+Hydr4+:)" alt="Typing SVG" /></a>
 
 
 ---
