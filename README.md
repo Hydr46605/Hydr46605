@@ -24,8 +24,8 @@
 
 ### :woman_technologist: Projects :
 
-- [Reveal](https://reveal-app.vercel.app) 🚀
-- [JungleTeam](https://team.junglemc.it) 🌴
+- [States](https://github.com/Hydr46605/States) 🚀
+- [JungleTeam](https://team.junglemc.it) 🌴 (No)
 
 ---
 
