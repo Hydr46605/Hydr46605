@@ -5,7 +5,7 @@
   <a href="https://youtube.com/@hydr4187">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://discord.gg/Y42sPa26N3">
+  <a href="https://discord.dragonmc.it">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
