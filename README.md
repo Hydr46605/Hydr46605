@@ -17,12 +17,12 @@
 ---
 
 
- 😁 <img src="https://readme-typing-svg.demolab.com/?font=Chivo+Mono&weight=300&size=14&pause=3000&color=F7E5DC&center=true&vCenter=true&lines=My+Name+Is+Hydr4" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com/?font=Chivo+Mono&weight=300&size=14&pause=3000&color=F7E5DC&center=true&vCenter=true&lines=My+Name+Is+Hydr4" alt="Typing SVG" /></a>
 
 
 ---
 
-### :woman_technologist: Projects :
+### :man_technologist: Projects :
 
 - [States](https://github.com/Hydr46605/States) 🚀
 - [JungleTeam](https://team.junglemc.it) 🌴 (No)
