@@ -16,19 +16,6 @@
 
 ---
 
-
- <img src="https://readme-typing-svg.demolab.com/?font=Chivo+Mono&weight=300&size=14&pause=3000&color=F7E5DC&center=true&vCenter=true&lines=My+Name+Is+Hydr4" alt="Typing SVG" /></a>
-
-
----
-
-### :man_technologist: Projects :
-
-- [States](https://github.com/Hydr46605/States) 🚀
-- [JungleTeam](https://team.junglemc.it) 🌴 (No)
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
