@@ -6,7 +6,7 @@
     <a href="https://youtube.com/@hydr4187">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=black" alt="YouTube"/>
     </a>
-    <a href="https://discord.gg/grove-street-family">
+    <a href="https://ds.frostvale.it">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=black" alt="Discord"/>
     </a>
     <a href="https://modrinth.com/user/Hydr46605">
@@ -50,8 +50,8 @@
   A performant, modular world management plugin for Minecraft servers.
 
   
-- **[LilGrove](https://lilgrove.it/)**  
-  Un server minecraft survival italiano con un leggero tocco custom.
+- **[FrostVale](https://frostvale.it)**  
+ Un server minecraft MMORPG completamente custom.
 
 And many more...
 
