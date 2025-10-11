@@ -45,15 +45,6 @@
 - **[OraxenNature](https://github.com/Hydr46605/OraxenNature/releases)**  
   OraxenNature is a powerful and highly configurable Spigot/Paper plugin that brings dynamic and advanced natural generation to your Minecraft server, fully integrated with [Oraxen](https://github.com/oraxen/oraxen).
   Inspired by [NexoAddon](https://github.com/Naimadx123/NexoAddon)
-  
-- **[LilWorlds](https://github.com/QQuantumBits/LilWorlds)**  
-  A performant, modular world management plugin for Minecraft servers.
-
-  
-- **[FrostVale](https://frostvale.it)**  
- Un server minecraft MMORPG completamente custom.
-
-And many more...
 
 ---
 
