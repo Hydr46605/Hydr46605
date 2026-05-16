@@ -44,7 +44,7 @@
 ### 🌱 Current Projects
 
 - **[OraxenNature](https://github.com/Hydr46605/OraxenNature/releases)**  
-  OraxenNature is a powerful and highly configurable Spigot/Paper plugin that brings dynamic and advanced natural generation to your Minecraft server, fully integrated with [Oraxen](https://github.com/oraxen/oraxen).  
+  OraxenNature is a powerful and highly configurable Spigot/Paper plugin that brings dynamic and advanced natural generation to your Minecraft server, fully integrated with [Oraxen](https://github.com/Teamplayer2).
   Inspired by [NexoAddon](https://github.com/Naimadx123/NexoAddon).
 
 - **[Lattice](https://github.com/Hydr46605/Lattice)**  
