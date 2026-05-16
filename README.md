@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://i.postimg.cc/vBnVT7T7/candidate9-Var4.jpg" width="220" height="220" alt="Profile"/>
+  <img src="https://i.postimg.cc/q7hTfDkC/content.png" width="220" height="220" alt="Profile"/>
 
 
   <div style="margin-top: 10px; margin-bottom: 5px;">
     <a href="https://youtube.com/@hydr4187">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=black" alt="YouTube"/>
     </a>
-    <a href="https://ds.frostvale.it">
+    <a href="https://discord.gg/bAv4PKpjS6">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=black" alt="Discord"/>
     </a>
     <a href="https://modrinth.com/user/Hydr46605">
@@ -42,9 +42,22 @@
 ---
 
 ### 🌱 Current Projects
+
 - **[OraxenNature](https://github.com/Hydr46605/OraxenNature/releases)**  
-  OraxenNature is a powerful and highly configurable Spigot/Paper plugin that brings dynamic and advanced natural generation to your Minecraft server, fully integrated with [Oraxen](https://github.com/oraxen/oraxen).
-  Inspired by [NexoAddon](https://github.com/Naimadx123/NexoAddon)
+  OraxenNature is a powerful and highly configurable Spigot/Paper plugin that brings dynamic and advanced natural generation to your Minecraft server, fully integrated with [Oraxen](https://github.com/oraxen/oraxen).  
+  Inspired by [NexoAddon](https://github.com/Naimadx123/NexoAddon).
+
+- **[Lattice](https://github.com/Hydr46605/Lattice)**  
+  Lattice is a lightweight framework for building cleaner, more modular and more maintainable Minecraft plugins.  
+  It is designed to provide a solid foundation for future projects and shared systems.
+
+- **[Tabular](https://github.com/Hydr46605/Tabular)**  
+  Tabular is a modern tablist-focused plugin built with customization, clarity and simplicity in mind.  
+  Its goal is to offer a cleaner and more approachable alternative for managing player lists and related visual elements.
+
+### 📦 Other Projects
+
+More tools, plugins and experimental resources are currently in development and will be released when they are ready.
 
 ---
 
