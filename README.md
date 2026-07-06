@@ -43,17 +43,13 @@
 
 ### 🌱 Current Projects
 
-- **[OraxenNature](https://github.com/Hydr46605/OraxenNature/releases)**  
-  OraxenNature is a powerful and highly configurable Spigot/Paper plugin that brings dynamic and advanced natural generation to your Minecraft server, fully integrated with [Oraxen](https://github.com/Teamplayer2).
-  Inspired by [NexoAddon](https://github.com/Naimadx123/NexoAddon).
-
 - **[Lattice](https://github.com/Hydr46605/Lattice)**  
   Lattice is a lightweight framework for building cleaner, more modular and more maintainable Minecraft plugins.  
   It is designed to provide a solid foundation for future projects and shared systems.
 
-- **[Tabular](https://github.com/Hydr46605/Tabular)**  
-  Tabular is a modern tablist-focused plugin built with customization, clarity and simplicity in mind.  
-  Its goal is to offer a cleaner and more approachable alternative for managing player lists and related visual elements.
+- **[Biscotto](https://github.com/Hydr46605/Biscotto)**  
+  Biscotto is a modular Discord bot framework written in TypeScript that lets you install, manage and compose bot modules from GitHub.
+  It's built around a small CLI and a public module registry, designed to make assembling and running a custom Discord bot feel clean and approachable.
 
 ### 📦 Other Projects
 
